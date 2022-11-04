@@ -899,9 +899,9 @@ nav.navbar .navbar-nav.other-navbar > li .chat-info i {
 }
 
 nav.navbar .navbar-nav.other-navbar > li .btn-chat {
-    background-color: #2a74e3;
-    height: 50px;
-    width: 50px;
+    background-color: #586b4d;
+    height: 60px;
+    width: 60px;
     border-radius: 10px;
     padding-top: 12px;
     text-align: center;
@@ -915,7 +915,7 @@ nav.navbar .navbar-nav.other-navbar > li .btn-chat i {
 }
 
 nav.navbar .navbar-nav.other-navbar > li .btn-chat:hover, nav.navbar .navbar-nav.other-navbar > li .btn-chat:focus {
-    background-color: #1c67d7;
+    background-color: #586b4d;
 }
 
 nav.navbar .navbar-nav-centered {
@@ -1024,7 +1024,7 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
 }
 
 .light-header nav.navbar .navbar-nav.other-navbar > li .btn-chat {
-    background-color: #2a74e3;
+    background-color: #586b4d;
 }
 
 .light-header nav.navbar .navbar-nav.other-navbar > li .btn-chat i {
@@ -1032,7 +1032,7 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
 }
 
 .light-header nav.navbar .navbar-nav.other-navbar > li .btn-chat:hover, .light-header nav.navbar .navbar-nav.other-navbar > li .btn-chat:focus {
-    background-color: #1c67d7;
+    background-color: #586b4d;
 }
 
 /* ----------------------------------
@@ -1180,7 +1180,7 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
     font-size: 23px;
     font-weight: 300;
 	margin-top: -20px;
-		margin-left: -8px;
+		margin-left: 30px;
 	height: 100px;
     color: #ffffff;
 /*    margin-bottom: 55px;*/
